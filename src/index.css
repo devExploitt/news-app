@@ -1,0 +1,21 @@
+:root {
+    --font: 'Open Sans', sans-serif;
+    --background-primary-color: hsla(0, 0%, 100%, 1);
+    --button-primary-color: hsla(205.9, 48.72%, 38.24%, 1);
+    --button-hover-color: rgb(40, 90, 128);
+    --button-text-color: hsla(0, 0%, 97.26%, 1);
+    --text-primary-color: hsla(0, 0%, 7.06%, 1);
+    --text-secondary-color: hsla(0, 0%, 21.18%, 1);
+    --separator-color: hsla(0, 0%, 7.06%, 1);
+    --max-width: 1200px;
+}
+html,
+body,
+main {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}

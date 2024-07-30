@@ -1,0 +1,13 @@
+#content {
+    position: relative;
+    margin-bottom: 15px;
+    &:after {
+        content: '';
+        position: absolute;
+        bottom: 0; /* Позиция снизу родительского блока */
+        left: 0;
+        width: 100%; /* Полная ширина родительского блока */
+        height: 1px;
+        background-color: #000; /* Цвет горизонтальной линии */
+    }
+}
