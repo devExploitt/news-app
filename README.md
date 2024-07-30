@@ -1,3 +1,7 @@
+News-app
+Запустить сборщик Vite: npm run dev 
+Запустить локальный json-server: npm run start-server 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
